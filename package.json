@@ -53,6 +53,7 @@
     "README.md"
   ],
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.6.2",
     "react-native-easy-guesture-responder": "^1.1.2",
     "react-native-scrolling": "^1.0.2",
